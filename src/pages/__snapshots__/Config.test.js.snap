@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render the page 1`] = `
+<div>
+  <div>
+    <header>
+      <img
+        alt="Secret friend drawer's logo"
+        src="/images/logo.png"
+      />
+      <img
+        alt="Avatar image of a participant"
+        src="/images/person.png"
+      />
+    </header>
+  </div>
+  <form>
+    <input
+      placeholder="Insira o nome do partcipante"
+      type="text"
+      value=""
+    />
+    <button
+      disabled=""
+      type="submit"
+    >
+      Adicionar
+    </button>
+  </form>
+  <ul />
+  <footer>
+    <button
+      disabled=""
+    >
+      Começar a brincadeira
+    </button>
+  </footer>
+</div>
+`;
